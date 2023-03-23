@@ -2,7 +2,7 @@
 <ul><li>O site funciona com a escolha da moeda e sua quantidade a ser convertida/invertida</li></ul>
 
 ### Opções
-<ul><li>Iene: ¥</li><li>Dólar: $</li><li>Euro: €</li><li>Libra: £</li></ul>
+<ul><li>Iene (JPY): ¥</li><li>Dólar (USD): $</li><li>Euro (EUR): €</li><li>Libra Esterlina (GBP): £</li></ul>
 
 ### Converter
 <ul><li>Será exibido o valor da moeda em Reais (BRL/R$)</li></ul>
